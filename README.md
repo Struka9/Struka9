@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hey there!
 
-<!--
-**Struka9/Struka9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🌐
+- 👨‍💻 Seasoned **Software Developer** with over 9 years of experience.
+- 🎮 Enthusiast of **Fighting Games** and **Trading Card Games**.
+- 📚 Keen on reading and continuously **learning new things**.
+- 🌟 Always exploring the latest tech trends.
 
-Here are some ideas to get you started:
+## What I'm up to 🚀
+- 🌱 Deep diving into the world of cryptocurrencies and decentralized applications.
+- 👯 Open to collaborating on innovative and challenging projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect! 🤝
+- 📫 Feel free to reach out for collaborations or just a friendly chat about games, tech, or anything interesting!
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Struka9&show_icons=true)
+
